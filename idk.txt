@@ -1,1 +1,6 @@
 hi
+github tutorial
+
+git add .
+git commit -m "popis commitu"
+git push origin main
