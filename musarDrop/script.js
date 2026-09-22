@@ -18,6 +18,7 @@ function ageVerification (){
         document.getElementById("blur").classList.add("hidden");
         document.getElementById("popUp").classList.add("hidden");
         window.alert("pokud jsi agent fbi, my overujeme vek, nebojte, tenhle popup neni jen tak pro prdel :]")
+        audio.play()
     }
 }
 
