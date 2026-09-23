@@ -145,6 +145,10 @@ header {
     height: 70px;
 }
 
+#faceit{
+    display: flex;
+}
+
 
 .hidden { display:none !important }
 @media screen and (max-width:400px){

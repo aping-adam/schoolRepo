@@ -2,6 +2,12 @@ const audio = document.getElementById("musarAudio");
 const ageSubmit = document.getElementById("ageSubmit");
 ageSubmit.onclick = ageVerification;
 
+document.getElementById("blur").classList.add("hidden");
+document.getElementById("popUp").classList.add("hidden");
+
+let randInt = Math.round(Math.random(1) * 4 + 1);
+console.log(randInt)
+
 let age = 0;
 
 function ageVerification (){
