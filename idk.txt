@@ -3,6 +3,8 @@ github tutorial
 
 jebat skolu
 
+lala
+
 git add .
 git commit -m "popis commitu"
 git push origin main
